@@ -1,0 +1,10 @@
+.*.swp
+config.dox
+*.pyc
+build/
+doc/
+dist/
+*.egg-info/
+.idea/
+.DS_Store
+test/data/*
